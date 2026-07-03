@@ -4,7 +4,7 @@ Analysis of customer churn in a gym membership dataset (4,000 customers), combin
 
 ## Key Findings
 
-- **Contract length matters enormously**: churn risk drops from 42% (monthly contracts) to 2% (annual contracts) — an 18x difference
+- **Contract length matters enormously**: churn risk drops from 42% (monthly contracts) to 2% (annual contracts) an 18x difference
 - **Early-warning signal**: customers who churn show a 29% drop in class attendance in their final month compared to their historical average
 - **Critical retention window**: Kaplan-Meier survival curve shows the highest churn risk occurs in the first 2-3 months of membership; customers who pass this window tend to stay long-term
 - **RFM segmentation**: customers with the lowest RFM scores churn at 53%, compared to just 2% for the highest-scoring segment
