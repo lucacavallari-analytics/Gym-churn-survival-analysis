@@ -22,3 +22,17 @@ Source: [Gym customers features and churn](https://www.kaggle.com/datasets/adria
 ## Tools
 
 Python, pandas, lifelines, matplotlib
+
+
+## Power BI Dashboard
+
+An interactive dashboard built in Power BI on the same dataset, summarising the churn analysis for a business audience.
+
+![Dashboard](Dashboard%20Gym_Churn_Analysis.png)
+
+**What it shows:**
+- KPI overview: overall churn rate, total members, average age and average lifetime
+- Churn rate by contract length: monthly contracts churn far more than annual ones (42% vs 2%)
+- Class attendance drop: members who leave attend fewer classes in their final month than their historical average
+- Churn risk over tenure: risk is highest in the first months, then drops sharply for members who pass that window
+- A gender slicer for interactive filtering across all visuals
